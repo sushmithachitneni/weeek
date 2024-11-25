@@ -1,6 +1,6 @@
 public class Prime {
     public static void main(String[] args) {
-        int num = 20;
+        int num = 300;
         boolean isPrime = true;
 
         for (int i = 2; i <= num / 2; i++) {
